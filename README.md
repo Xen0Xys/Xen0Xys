@@ -24,6 +24,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
 
 ## My stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xen0Xys&langs_count=8&theme=github_dark&layout=compact)](https://github.com/Xen0Xys)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xen0Xys&show_icons=true&theme=github_dark)](https://github.com/Xen0Xys)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xen0Xys&langs_count=8&theme=github_dark&layout=compact)](https://github.com/Xen0Xys)
