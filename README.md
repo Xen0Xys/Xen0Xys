@@ -53,7 +53,9 @@ Feel free to reach out for collaborations:
 ## 📊 GitHub Stats
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xen0Xys&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xen0Xys&langs_count=8&theme=github_dark&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Xen0Xys&langs_count=5&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xen0Xys&langs_count=6&theme=github_dark&layout=compact)
+
 
 ---
 
